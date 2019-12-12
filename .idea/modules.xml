@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0042/0042.iml" filepath="$PROJECT_DIR$/0042/0042.iml" />
       <module fileurl="file://$PROJECT_DIR$/0104/0104.iml" filepath="$PROJECT_DIR$/0104/0104.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0108/0108.iml" filepath="$PROJECT_DIR$/0108/0108.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0206/0206.iml" filepath="$PROJECT_DIR$/0206/0206.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0617/0617.iml" filepath="$PROJECT_DIR$/0617/0617.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetcodeSolution.iml" filepath="$PROJECT_DIR$/MyLeetcodeSolution.iml" />
     </modules>
   </component>
